@@ -1,4 +1,4 @@
-/*
+
     =>  NaughtCoin is an ERC20 token and you're already holding all of them.
         The catch is that  you'll only be able to transfer  them after a 10 
         year lockout period.  Can  you figure out  how to get them  out  to 
@@ -10,4 +10,3 @@
     =>  The ERC20 Spec
     =>  The OpenZeppelin codebase
 
-*/
